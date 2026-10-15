@@ -1,0 +1,10 @@
+venv/
+.venv/
+.venv
+venv
+__pycache__/
+*.pyc
+.pytest_cache
+.env
+mental_health.db
+.streamlit/secrets.toml
